@@ -7,10 +7,29 @@
 # else :
 #     print('you are old')
 
-tired = input('are u tired? "y/n"')
-if tired == 'y' :
-    print('rest well')
-elif tired == 'n' :
-    print('go back to work')
+# tired = input('are u tired? "y/n"')
+# if tired == 'y' :
+#     print('rest well')
+# elif tired == 'n' :
+#     print('go back to work')
+# else :
+#     print('please enter y or n')
+
+
+#homework
+username = input('User Name : ')
+password = input('Password : ')
+
+# if username == "Yu" and password == "yu" :
+#     print("Log in Success")
+# else :
+#     print("Log in Fail")
+
+if username == "Yu" and password == "yu" :
+    print("Log in Success")
+elif username == "Yu" :
+    print("Your password is wrong")
+elif password == "yu" :
+    print("Your username or password is wrong")
 else :
-    print('please enter y or n')
+    print("Log in Fail")
