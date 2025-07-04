@@ -12,4 +12,4 @@ print('hello world'); #print hello world
 PI = 3.14;
 r = int(input('radius : ')); #type cast
 area = PI*r**2;
-print('area = '+area);
+print(area);
