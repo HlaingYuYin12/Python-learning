@@ -13,5 +13,14 @@ while True :
 
 # print(person)
 
-for (key,value) in person.items() : #dict mar item a yin swal htote ya mal
-    print(f'{key} is {value} years old')
+
+# for (key,value) in person.items() : #dict mar item a yin swal htote ya mal
+#     print(f'{key} is {value} years old')
+
+
+
+ages = list(person.values())
+# print(ages)
+for age in set(ages) : 
+    count = ages.count(age)
+    print(f'{age} years old - {count}')
