@@ -38,13 +38,3 @@ Filler text (also placeholder text or dummy text) is text that shares some chara
    been the industry's standard dummy text ever since the 1500s, when an unknown printer took 
    a galley of type and scrambled it to make a type specimen book. 
 
-Filler text (also placeholder text or dummy text) is text that shares some characteristics
- of a real written text, but is random or otherwise generated. It may be used to display
-  a sample of fonts, generate text for testing, or to spoof an e-mail spam filter.A text 
-  can be written materials, such as books, magazines, newspapers, or online content. But it 
-  can also be other things, those that we may not associate with standard text. Text could
-   be movies, scripts, paintings, songs, political cartoons, advertisements and maps.
-   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has 
-   been the industry's standard dummy text ever since the 1500s, when an unknown printer took 
-   a galley of type and scrambled it to make a type specimen book. 
-
